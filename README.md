@@ -1,0 +1,2 @@
+# MyApplication
+android test application
